@@ -26,7 +26,7 @@ In this courework, I set out to implement a simulation of the JPEG (Joint Photog
 
 - Changing K Value or Quantization Table
 
-![Quantization Table](images/qtable.png)
+<img src="images/qtable.png" alt="Quantization Table" style="zoom:50%;" />
 
 
 
